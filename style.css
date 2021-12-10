@@ -1,0 +1,139 @@
+body {
+    margin: 0px;
+    background-color: #EEEAF8;
+    
+    
+}
+div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 12px;
+    
+    
+}
+.qdr{
+    
+    background-color: rgb(255, 255, 255);
+    
+    
+    
+    
+    
+    
+    border: 0.1px;
+    border-color: rgba(0, 0, 0, 0.185);
+    border-style: solid;
+
+    padding-bottom: 35px;
+    
+    
+    border-radius: 8px;
+    z-index: -1;
+    margin-bottom: 6px;
+    
+    
+}
+@font-face {
+    font-family: 'Product Sans Thin Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Thin Regular'), url('ProductSans-Light.woff') format('woff');
+}
+h1 {
+    font-family:'Product Sans Thin Regular';
+    margin-left: 22px;
+    
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top: 27px;
+    font-size: 26px;
+    margin-left: 20px;
+    border-radius: 8px 8px 0px 0px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    font-family:'Product Sans Thin Regular';
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top: 27px;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 8px 8px 0px 0px;
+    color: rgb(0, 0, 0);
+}
+p {
+    
+    font-size: 16px;
+    font-weight: normal;
+    margin-left: 22px;
+    font-family:'Product Sans Thin Regular';
+    margin-bottom: 0px;
+    
+    
+}
+@import url('https://fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap');
+.emb {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size:12px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0%;
+    color: rgb(51, 0, 73);
+    
+}
+
+.toppr{
+    
+    background-color: rgb(124, 0, 196);
+    color: rgba(255, 255, 255, 1);
+
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 6px;
+    
+    margin:0%;
+    top: -1px;
+    width: 100%;
+}
+.qdr2 {
+    
+    border-left: 6px rgb(124, 0, 196);;
+    border-style: solid;
+    
+    
+    
+}
+.qdr2 >  h1{
+    margin: 15px;
+    padding: 0px;
+}
+.qdr2 > p{
+    margin: 17px;
+    padding: 0px;
+}
+
+#kurinrin {
+    display: block;
+    width: 63px;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+@media(min-width: 703px){ div{ width: 639px; margin-left:auto; margin-right: auto;} }
+
+#nome{
+    border-radius: 4px;
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+    border:rgb(14, 14, 14) 0.1mm;
+    border-style: solid;
+    
+}
+#n1 {
+    text-align: center;
+}
